@@ -32,5 +32,6 @@ Ova command line JavaScript aplikacija simulira košaricu na web stranici za trg
 - Pomoćna naredba "help" za brzo snalaženje
 - Provjere pogrešaka i povratne informacije za korisnike
 - Case sensitive
+- 
 
 
